@@ -1,0 +1,15 @@
+/*$baseFontFamily: Oxygen;
+@import url(http://fonts.googleapis.com/css?family=Oxygen);*/
+$btnPrimaryBackground: SeaGreen;
+$navbarBackgroundHighlight: white;
+$navbarBackground: honeydew;
+
+@import 'bootstrap';
+
+body {
+	padding-top: 60px;
+	}
+
+
+@import 'bootstrap-responsive';
+
